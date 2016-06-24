@@ -7,14 +7,85 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		020348A61C92C7C2006EFC09 /* nakayoku2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020348A51C92C7C2006EFC09 /* nakayoku2ViewController.swift */; };
+		020348A81C92D1AB006EFC09 /* 田中家爆破.png in Resources */ = {isa = PBXBuildFile; fileRef = 020348A71C92D1AB006EFC09 /* 田中家爆破.png */; };
+		020348AA1C92D331006EFC09 /* TanakakeBakuhaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020348A91C92D331006EFC09 /* TanakakeBakuhaViewController.swift */; };
+		020348AC1C92D754006EFC09 /* AsobuNakayokuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020348AB1C92D754006EFC09 /* AsobuNakayokuViewController.swift */; };
+		020348AE1C92E367006EFC09 /* 田中怒る.png in Resources */ = {isa = PBXBuildFile; fileRef = 020348AD1C92E367006EFC09 /* 田中怒る.png */; };
+		0218E5B21C2408B90053F5E0 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0218E5AF1C2408B90053F5E0 /* Default-568h@2x.png */; };
+		0218E5B31C2408B90053F5E0 /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0218E5B01C2408B90053F5E0 /* Default-667h@2x.png */; };
+		0218E5B41C2408B90053F5E0 /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0218E5B11C2408B90053F5E0 /* Default-736h@3x.png */; };
 		022E4C151C071A5B007F24D0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022E4C141C071A5B007F24D0 /* AppDelegate.swift */; };
-		022E4C171C071A5B007F24D0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022E4C161C071A5B007F24D0 /* ViewController.swift */; };
 		022E4C1A1C071A5B007F24D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 022E4C181C071A5B007F24D0 /* Main.storyboard */; };
 		022E4C1D1C071A5B007F24D0 /* TANAKA.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 022E4C1B1C071A5B007F24D0 /* TANAKA.xcdatamodeld */; };
 		022E4C1F1C071A5B007F24D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 022E4C1E1C071A5B007F24D0 /* Assets.xcassets */; };
 		022E4C221C071A5B007F24D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 022E4C201C071A5B007F24D0 /* LaunchScreen.storyboard */; };
 		022E4C2D1C071A5B007F24D0 /* TANAKATests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022E4C2C1C071A5B007F24D0 /* TANAKATests.swift */; };
 		022E4C381C071A5B007F24D0 /* TANAKAUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 022E4C371C071A5B007F24D0 /* TANAKAUITests.swift */; };
+		022E4C461C071B8F007F24D0 /* 田中通常時.png in Resources */ = {isa = PBXBuildFile; fileRef = 022E4C451C071B8F007F24D0 /* 田中通常時.png */; };
+		022E4C4A1C072176007F24D0 /* バズーカ.png in Resources */ = {isa = PBXBuildFile; fileRef = 022E4C491C072176007F24D0 /* バズーカ.png */; };
+		022E4C4C1C07236E007F24D0 /* 田中爆破の図.png in Resources */ = {isa = PBXBuildFile; fileRef = 022E4C4B1C07236E007F24D0 /* 田中爆破の図.png */; };
+		022E4C4E1C072868007F24D0 /* 田中落ち込むの図.png in Resources */ = {isa = PBXBuildFile; fileRef = 022E4C4D1C072868007F24D0 /* 田中落ち込むの図.png */; };
+		023F5EF21C6DE9EC00C13973 /* ゲーム店長.png in Resources */ = {isa = PBXBuildFile; fileRef = 023F5EF11C6DE9EC00C13973 /* ゲーム店長.png */; };
+		023F5EF41C6DEC5600C13973 /* モンファン.png in Resources */ = {isa = PBXBuildFile; fileRef = 023F5EF31C6DEC5600C13973 /* モンファン.png */; };
+		023F5EF61C6DEE3500C13973 /* トゥケモン.png in Resources */ = {isa = PBXBuildFile; fileRef = 023F5EF51C6DEE3500C13973 /* トゥケモン.png */; };
+		023F5EF81C6DEE3F00C13973 /* ホラクエ.png in Resources */ = {isa = PBXBuildFile; fileRef = 023F5EF71C6DEE3F00C13973 /* ホラクエ.png */; };
+		023F5EFC1C6DF00A00C13973 /* 棚.png in Resources */ = {isa = PBXBuildFile; fileRef = 023F5EFB1C6DF00A00C13973 /* 棚.png */; };
+		023F5EFE1C6DF39100C13973 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023F5EFD1C6DF39100C13973 /* GameViewController.swift */; };
+		023F5F001C6DF45C00C13973 /* MonfanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023F5EFF1C6DF45C00C13973 /* MonfanViewController.swift */; };
+		023F5F021C6DF4BC00C13973 /* TukemonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023F5F011C6DF4BC00C13973 /* TukemonViewController.swift */; };
+		023F5F041C6DF51D00C13973 /* HorakueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 023F5F031C6DF51D00C13973 /* HorakueViewController.swift */; };
+		023F5F061C6DF76400C13973 /* パン.png in Resources */ = {isa = PBXBuildFile; fileRef = 023F5F051C6DF76400C13973 /* パン.png */; };
+		024831341C25CC2800616A14 /* 伝説の剣2 のコピー.png in Resources */ = {isa = PBXBuildFile; fileRef = 024831331C25CC2800616A14 /* 伝説の剣2 のコピー.png */; };
+		024B23771CC294E000BD2356 /* 田中最終形態.png in Resources */ = {isa = PBXBuildFile; fileRef = 024B23761CC294E000BD2356 /* 田中最終形態.png */; };
+		024B23791CC51D8E00BD2356 /* BattleTanakaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024B23781CC51D8E00BD2356 /* BattleTanakaViewController.swift */; };
+		025EF0681CEF0BA300A86B56 /* RastTanakaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025EF0671CEF0BA300A86B56 /* RastTanakaViewController.swift */; };
+		025EF06C1CEF1D8600A86B56 /* StoryboardHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025EF06B1CEF1D8600A86B56 /* StoryboardHelper.swift */; };
+		025EF06E1CEF1DFC00A86B56 /* 3.5inch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 025EF06D1CEF1DFC00A86B56 /* 3.5inch.storyboard */; };
+		0262C98E1CEDEB6E00E5398A /* スクリーンショット 2016-05-19 7.06.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 0262C98D1CEDEB6E00E5398A /* スクリーンショット 2016-05-19 7.06.33.png */; };
+		0288C7ED1C64AC7F00ECA4D7 /* Stage3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0288C7EC1C64AC7F00ECA4D7 /* Stage3ViewController.swift */; };
+		0288C7EF1C64AE6800ECA4D7 /* food_hamburger.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C7EE1C64AE6800ECA4D7 /* food_hamburger.png */; };
+		0288C7F11C64B27100ECA4D7 /* うまい田中.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C7F01C64B27100ECA4D7 /* うまい田中.png */; };
+		0288C7F31C64B38200ECA4D7 /* HumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0288C7F21C64B38200ECA4D7 /* HumViewController.swift */; };
+		0288C7F51C64B69D00ECA4D7 /* よこせ.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C7F41C64B69D00ECA4D7 /* よこせ.png */; };
+		0288C7F71C64B89F00ECA4D7 /* YokoseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0288C7F61C64B89F00ECA4D7 /* YokoseViewController.swift */; };
+		0288C7FF1C64C13D00ECA4D7 /* パン屋.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C7FE1C64C13D00ECA4D7 /* パン屋.png */; };
+		0288C8011C64C14200ECA4D7 /* 田中家.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C8001C64C14200ECA4D7 /* 田中家.png */; };
+		0288C8031C64C14B00ECA4D7 /* ゲーム屋.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C8021C64C14B00ECA4D7 /* ゲーム屋.png */; };
+		0288C8071C64C2F200ECA4D7 /* cloud_01-blackwhite.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C8061C64C2F200ECA4D7 /* cloud_01-blackwhite.png */; };
+		028D3CAA1C11A19300C51409 /* kuria1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028D3CA91C11A19300C51409 /* kuria1ViewController.swift */; };
+		028D3CAC1C11A43100C51409 /* bazu-kagetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 028D3CAB1C11A43100C51409 /* bazu-kagetViewController.swift */; };
+		028D3CAE1C11A76F00C51409 /* mplus-1c-black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 028D3CAD1C11A73100C51409 /* mplus-1c-black.ttf */; };
+		028D3CB41C11AD9600C51409 /* レッツ田中.png in Resources */ = {isa = PBXBuildFile; fileRef = 028D3CB31C11AD9600C51409 /* レッツ田中.png */; };
+		02B5734C1C805399002E8399 /* GameAgeruViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B5734B1C805399002E8399 /* GameAgeruViewController.swift */; };
+		02B573501C80579B002E8399 /* Panya2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B5734F1C80579B002E8399 /* Panya2ViewController.swift */; };
+		02B573521C805C28002E8399 /* パン落ち込む.png in Resources */ = {isa = PBXBuildFile; fileRef = 02B573511C805C28002E8399 /* パン落ち込む.png */; };
+		02B573541C805D5F002E8399 /* PanyaOtikomuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B573531C805D5F002E8399 /* PanyaOtikomuViewController.swift */; };
+		02B573561C8065EF002E8399 /* PanyaBazukaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B573551C8065EF002E8399 /* PanyaBazukaViewController.swift */; };
+		02B5735A1C899869002E8399 /* PanGamegameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B573591C899869002E8399 /* PanGamegameViewController.swift */; };
+		02B5735C1C899958002E8399 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B5735B1C899958002E8399 /* ViewController.swift */; };
+		02B573621C89A666002E8399 /* NakayokuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02B573611C89A666002E8399 /* NakayokuViewController.swift */; };
+		02BA54741C2416DF00D442BE /* 伝説の剣.png in Resources */ = {isa = PBXBuildFile; fileRef = 02BA54731C2416DF00D442BE /* 伝説の剣.png */; };
+		02BA54761C2418E200D442BE /* 呪文の書.png in Resources */ = {isa = PBXBuildFile; fileRef = 02BA54751C2418E200D442BE /* 呪文の書.png */; };
+		02BA54781C24290C00D442BE /* 伝説の剣2.png in Resources */ = {isa = PBXBuildFile; fileRef = 02BA54771C24290C00D442BE /* 伝説の剣2.png */; };
+		02BBC6ED1C5B791800045669 /* kiruDSViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02BBC6EC1C5B791800045669 /* kiruDSViewController.swift */; };
+		02BBC6F11C5B7A5700045669 /* kiruDS.png in Resources */ = {isa = PBXBuildFile; fileRef = 02BBC6F01C5B7A5700045669 /* kiruDS.png */; };
+		02C082121C36AC8D008D2BA5 /* zyumonnosyo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C082111C36AC8D008D2BA5 /* zyumonnosyo.swift */; };
+		02C082141C36AFD5008D2BA5 /* stage2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02C082131C36AFD5008D2BA5 /* stage2.swift */; };
+		02C65BCA1C199A6B006EC8B5 /* 田中寝る.png in Resources */ = {isa = PBXBuildFile; fileRef = 02C65BC91C199A6B006EC8B5 /* 田中寝る.png */; };
+		02C65BCE1C199D3B006EC8B5 /* ds.png in Resources */ = {isa = PBXBuildFile; fileRef = 02C65BCD1C199D3B006EC8B5 /* ds.png */; };
+		02DBE25E1C5242F80019829F /* densetsunoken2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DBE25D1C5242F80019829F /* densetsunoken2ViewController.swift */; };
+		02DBE2601C5248A00019829F /* densetsunokengetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DBE25F1C5248A00019829F /* densetsunokengetViewController.swift */; };
+		02DBE2621C524C9E0019829F /* dsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02DBE2611C524C9E0019829F /* dsViewController.swift */; };
+		02F8AE5F1C771F7A006A586A /* GameKauViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8AE5E1C771F7A006A586A /* GameKauViewController.swift */; };
+		02F8AE611C772AA0006A586A /* KnaNaiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8AE601C772AA0006A586A /* KnaNaiViewController.swift */; };
+		02F8AE631C772CD9006A586A /* food_pan_kabi.png in Resources */ = {isa = PBXBuildFile; fileRef = 02F8AE621C772CD9006A586A /* food_pan_kabi.png */; };
+		02F8AE651C772E70006A586A /* PanyaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8AE641C772E70006A586A /* PanyaViewController.swift */; };
+		02F8AE671C773277006A586A /* PabKauViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8AE661C773277006A586A /* PabKauViewController.swift */; };
+		02F8AE691C7733E8006A586A /* Stage4ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02F8AE681C7733E8006A586A /* Stage4ViewController.swift */; };
+		02FCD9051C56CA9F00E918C3 /* breakds.png in Resources */ = {isa = PBXBuildFile; fileRef = 02FCD9041C56CA9F00E918C3 /* breakds.png */; };
+		02FCD9091C57789700E918C3 /* ふきだし.png in Resources */ = {isa = PBXBuildFile; fileRef = 02FCD9081C57789700E918C3 /* ふきだし.png */; };
+		02FCD90B1C57AD8A00E918C3 /* GameOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FCD90A1C57AD8A00E918C3 /* GameOverViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,9 +106,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		020348A51C92C7C2006EFC09 /* nakayoku2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = nakayoku2ViewController.swift; sourceTree = "<group>"; };
+		020348A71C92D1AB006EFC09 /* 田中家爆破.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中家爆破.png"; sourceTree = "<group>"; };
+		020348A91C92D331006EFC09 /* TanakakeBakuhaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TanakakeBakuhaViewController.swift; sourceTree = "<group>"; };
+		020348AB1C92D754006EFC09 /* AsobuNakayokuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsobuNakayokuViewController.swift; sourceTree = "<group>"; };
+		020348AD1C92E367006EFC09 /* 田中怒る.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中怒る.png"; sourceTree = "<group>"; };
+		0218E5AF1C2408B90053F5E0 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		0218E5B01C2408B90053F5E0 /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
+		0218E5B11C2408B90053F5E0 /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
 		022E4C111C071A5B007F24D0 /* TANAKA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TANAKA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		022E4C141C071A5B007F24D0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		022E4C161C071A5B007F24D0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		022E4C191C071A5B007F24D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		022E4C1C1C071A5B007F24D0 /* TANAKA.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TANAKA.xcdatamodel; sourceTree = "<group>"; };
 		022E4C1E1C071A5B007F24D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -49,6 +127,70 @@
 		022E4C331C071A5B007F24D0 /* TANAKAUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TANAKAUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		022E4C371C071A5B007F24D0 /* TANAKAUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TANAKAUITests.swift; sourceTree = "<group>"; };
 		022E4C391C071A5B007F24D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		022E4C451C071B8F007F24D0 /* 田中通常時.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中通常時.png"; sourceTree = "<group>"; };
+		022E4C491C072176007F24D0 /* バズーカ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "バズーカ.png"; sourceTree = "<group>"; };
+		022E4C4B1C07236E007F24D0 /* 田中爆破の図.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中爆破の図.png"; sourceTree = "<group>"; };
+		022E4C4D1C072868007F24D0 /* 田中落ち込むの図.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中落ち込むの図.png"; sourceTree = "<group>"; };
+		023F5EF11C6DE9EC00C13973 /* ゲーム店長.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ゲーム店長.png"; sourceTree = "<group>"; };
+		023F5EF31C6DEC5600C13973 /* モンファン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "モンファン.png"; sourceTree = "<group>"; };
+		023F5EF51C6DEE3500C13973 /* トゥケモン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "トゥケモン.png"; sourceTree = "<group>"; };
+		023F5EF71C6DEE3F00C13973 /* ホラクエ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ホラクエ.png"; sourceTree = "<group>"; };
+		023F5EFB1C6DF00A00C13973 /* 棚.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "棚.png"; sourceTree = "<group>"; };
+		023F5EFD1C6DF39100C13973 /* GameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		023F5EFF1C6DF45C00C13973 /* MonfanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonfanViewController.swift; sourceTree = "<group>"; };
+		023F5F011C6DF4BC00C13973 /* TukemonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TukemonViewController.swift; sourceTree = "<group>"; };
+		023F5F031C6DF51D00C13973 /* HorakueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorakueViewController.swift; sourceTree = "<group>"; };
+		023F5F051C6DF76400C13973 /* パン.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "パン.png"; sourceTree = "<group>"; };
+		024831331C25CC2800616A14 /* 伝説の剣2 のコピー.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "伝説の剣2 のコピー.png"; sourceTree = "<group>"; };
+		024B23761CC294E000BD2356 /* 田中最終形態.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中最終形態.png"; sourceTree = "<group>"; };
+		024B23781CC51D8E00BD2356 /* BattleTanakaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BattleTanakaViewController.swift; sourceTree = "<group>"; };
+		025EF0671CEF0BA300A86B56 /* RastTanakaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RastTanakaViewController.swift; sourceTree = "<group>"; };
+		025EF06B1CEF1D8600A86B56 /* StoryboardHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardHelper.swift; sourceTree = "<group>"; };
+		025EF06D1CEF1DFC00A86B56 /* 3.5inch.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = 3.5inch.storyboard; path = TANAKATests/3.5inch.storyboard; sourceTree = SOURCE_ROOT; };
+		0262C98D1CEDEB6E00E5398A /* スクリーンショット 2016-05-19 7.06.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2016-05-19 7.06.33.png"; sourceTree = "<group>"; };
+		0288C7EC1C64AC7F00ECA4D7 /* Stage3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stage3ViewController.swift; sourceTree = "<group>"; };
+		0288C7EE1C64AE6800ECA4D7 /* food_hamburger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = food_hamburger.png; sourceTree = "<group>"; };
+		0288C7F01C64B27100ECA4D7 /* うまい田中.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "うまい田中.png"; sourceTree = "<group>"; };
+		0288C7F21C64B38200ECA4D7 /* HumViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HumViewController.swift; sourceTree = "<group>"; };
+		0288C7F41C64B69D00ECA4D7 /* よこせ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "よこせ.png"; sourceTree = "<group>"; };
+		0288C7F61C64B89F00ECA4D7 /* YokoseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YokoseViewController.swift; sourceTree = "<group>"; };
+		0288C7FE1C64C13D00ECA4D7 /* パン屋.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "パン屋.png"; sourceTree = "<group>"; };
+		0288C8001C64C14200ECA4D7 /* 田中家.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中家.png"; sourceTree = "<group>"; };
+		0288C8021C64C14B00ECA4D7 /* ゲーム屋.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ゲーム屋.png"; sourceTree = "<group>"; };
+		0288C8061C64C2F200ECA4D7 /* cloud_01-blackwhite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cloud_01-blackwhite.png"; sourceTree = "<group>"; };
+		028D3CA91C11A19300C51409 /* kuria1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = kuria1ViewController.swift; sourceTree = "<group>"; };
+		028D3CAB1C11A43100C51409 /* bazu-kagetViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "bazu-kagetViewController.swift"; sourceTree = "<group>"; };
+		028D3CAD1C11A73100C51409 /* mplus-1c-black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "mplus-1c-black.ttf"; sourceTree = "<group>"; };
+		028D3CB31C11AD9600C51409 /* レッツ田中.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "レッツ田中.png"; sourceTree = "<group>"; };
+		02B5734B1C805399002E8399 /* GameAgeruViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameAgeruViewController.swift; sourceTree = "<group>"; };
+		02B5734F1C80579B002E8399 /* Panya2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Panya2ViewController.swift; sourceTree = "<group>"; };
+		02B573511C805C28002E8399 /* パン落ち込む.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "パン落ち込む.png"; sourceTree = "<group>"; };
+		02B573531C805D5F002E8399 /* PanyaOtikomuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PanyaOtikomuViewController.swift; sourceTree = "<group>"; };
+		02B573551C8065EF002E8399 /* PanyaBazukaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PanyaBazukaViewController.swift; sourceTree = "<group>"; };
+		02B573591C899869002E8399 /* PanGamegameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PanGamegameViewController.swift; sourceTree = "<group>"; };
+		02B5735B1C899958002E8399 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		02B573611C89A666002E8399 /* NakayokuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NakayokuViewController.swift; sourceTree = "<group>"; };
+		02BA54731C2416DF00D442BE /* 伝説の剣.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "伝説の剣.png"; sourceTree = "<group>"; };
+		02BA54751C2418E200D442BE /* 呪文の書.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "呪文の書.png"; sourceTree = "<group>"; };
+		02BA54771C24290C00D442BE /* 伝説の剣2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "伝説の剣2.png"; sourceTree = "<group>"; };
+		02BBC6EC1C5B791800045669 /* kiruDSViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = kiruDSViewController.swift; sourceTree = "<group>"; };
+		02BBC6F01C5B7A5700045669 /* kiruDS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kiruDS.png; path = ../Defaults/kiruDS.png; sourceTree = "<group>"; };
+		02C082111C36AC8D008D2BA5 /* zyumonnosyo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = zyumonnosyo.swift; sourceTree = "<group>"; };
+		02C082131C36AFD5008D2BA5 /* stage2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = stage2.swift; sourceTree = "<group>"; };
+		02C65BC91C199A6B006EC8B5 /* 田中寝る.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中寝る.png"; sourceTree = "<group>"; };
+		02C65BCD1C199D3B006EC8B5 /* ds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ds.png; sourceTree = "<group>"; };
+		02DBE25D1C5242F80019829F /* densetsunoken2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = densetsunoken2ViewController.swift; sourceTree = "<group>"; };
+		02DBE25F1C5248A00019829F /* densetsunokengetViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = densetsunokengetViewController.swift; sourceTree = "<group>"; };
+		02DBE2611C524C9E0019829F /* dsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = dsViewController.swift; sourceTree = "<group>"; };
+		02F8AE5E1C771F7A006A586A /* GameKauViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameKauViewController.swift; sourceTree = "<group>"; };
+		02F8AE601C772AA0006A586A /* KnaNaiViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KnaNaiViewController.swift; sourceTree = "<group>"; };
+		02F8AE621C772CD9006A586A /* food_pan_kabi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = food_pan_kabi.png; sourceTree = "<group>"; };
+		02F8AE641C772E70006A586A /* PanyaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PanyaViewController.swift; sourceTree = "<group>"; };
+		02F8AE661C773277006A586A /* PabKauViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PabKauViewController.swift; sourceTree = "<group>"; };
+		02F8AE681C7733E8006A586A /* Stage4ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stage4ViewController.swift; sourceTree = "<group>"; };
+		02FCD9041C56CA9F00E918C3 /* breakds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = breakds.png; path = ../Defaults/breakds.png; sourceTree = "<group>"; };
+		02FCD9081C57789700E918C3 /* ふきだし.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ふきだし.png"; sourceTree = "<group>"; };
+		02FCD90A1C57AD8A00E918C3 /* GameOverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,9 +218,20 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0218E5AE1C2408B90053F5E0 /* Defaults */ = {
+			isa = PBXGroup;
+			children = (
+				0218E5AF1C2408B90053F5E0 /* Default-568h@2x.png */,
+				0218E5B01C2408B90053F5E0 /* Default-667h@2x.png */,
+				0218E5B11C2408B90053F5E0 /* Default-736h@3x.png */,
+			);
+			path = Defaults;
+			sourceTree = "<group>";
+		};
 		022E4C081C071A5B007F24D0 = {
 			isa = PBXGroup;
 			children = (
+				0218E5AE1C2408B90053F5E0 /* Defaults */,
 				022E4C131C071A5B007F24D0 /* TANAKA */,
 				022E4C2B1C071A5B007F24D0 /* TANAKATests */,
 				022E4C361C071A5B007F24D0 /* TANAKAUITests */,
@@ -99,9 +252,45 @@
 		022E4C131C071A5B007F24D0 /* TANAKA */ = {
 			isa = PBXGroup;
 			children = (
-				022E4C141C071A5B007F24D0 /* AppDelegate.swift */,
-				022E4C161C071A5B007F24D0 /* ViewController.swift */,
+				025EF06D1CEF1DFC00A86B56 /* 3.5inch.storyboard */,
 				022E4C181C071A5B007F24D0 /* Main.storyboard */,
+				025EF06B1CEF1D8600A86B56 /* StoryboardHelper.swift */,
+				02B5735B1C899958002E8399 /* ViewController.swift */,
+				0288C7EC1C64AC7F00ECA4D7 /* Stage3ViewController.swift */,
+				020348A91C92D331006EFC09 /* TanakakeBakuhaViewController.swift */,
+				0288C7F21C64B38200ECA4D7 /* HumViewController.swift */,
+				025EF0671CEF0BA300A86B56 /* RastTanakaViewController.swift */,
+				024B23781CC51D8E00BD2356 /* BattleTanakaViewController.swift */,
+				02B573531C805D5F002E8399 /* PanyaOtikomuViewController.swift */,
+				020348AB1C92D754006EFC09 /* AsobuNakayokuViewController.swift */,
+				020348A51C92C7C2006EFC09 /* nakayoku2ViewController.swift */,
+				02B573591C899869002E8399 /* PanGamegameViewController.swift */,
+				02B573611C89A666002E8399 /* NakayokuViewController.swift */,
+				02B5734F1C80579B002E8399 /* Panya2ViewController.swift */,
+				02B573551C8065EF002E8399 /* PanyaBazukaViewController.swift */,
+				02B5734B1C805399002E8399 /* GameAgeruViewController.swift */,
+				02F8AE661C773277006A586A /* PabKauViewController.swift */,
+				02F8AE641C772E70006A586A /* PanyaViewController.swift */,
+				02F8AE681C7733E8006A586A /* Stage4ViewController.swift */,
+				02F8AE601C772AA0006A586A /* KnaNaiViewController.swift */,
+				023F5F011C6DF4BC00C13973 /* TukemonViewController.swift */,
+				02F8AE5E1C771F7A006A586A /* GameKauViewController.swift */,
+				023F5EFF1C6DF45C00C13973 /* MonfanViewController.swift */,
+				023F5F031C6DF51D00C13973 /* HorakueViewController.swift */,
+				0288C7F61C64B89F00ECA4D7 /* YokoseViewController.swift */,
+				023F5EFD1C6DF39100C13973 /* GameViewController.swift */,
+				02FCD90A1C57AD8A00E918C3 /* GameOverViewController.swift */,
+				028D3CA91C11A19300C51409 /* kuria1ViewController.swift */,
+				02BBC6EC1C5B791800045669 /* kiruDSViewController.swift */,
+				02DBE25F1C5248A00019829F /* densetsunokengetViewController.swift */,
+				02DBE2611C524C9E0019829F /* dsViewController.swift */,
+				022E4C141C071A5B007F24D0 /* AppDelegate.swift */,
+				02DBE25D1C5242F80019829F /* densetsunoken2ViewController.swift */,
+				02C082131C36AFD5008D2BA5 /* stage2.swift */,
+				02C082111C36AC8D008D2BA5 /* zyumonnosyo.swift */,
+				028D3CAB1C11A43100C51409 /* bazu-kagetViewController.swift */,
+				02C0820F1C36A4B6008D2BA5 /* New Group */,
+				028D3CAD1C11A73100C51409 /* mplus-1c-black.ttf */,
 				022E4C1E1C071A5B007F24D0 /* Assets.xcassets */,
 				022E4C201C071A5B007F24D0 /* LaunchScreen.storyboard */,
 				022E4C231C071A5B007F24D0 /* Info.plist */,
@@ -126,6 +315,46 @@
 				022E4C391C071A5B007F24D0 /* Info.plist */,
 			);
 			path = TANAKAUITests;
+			sourceTree = "<group>";
+		};
+		02C0820F1C36A4B6008D2BA5 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				02B573511C805C28002E8399 /* パン落ち込む.png */,
+				0262C98D1CEDEB6E00E5398A /* スクリーンショット 2016-05-19 7.06.33.png */,
+				020348A71C92D1AB006EFC09 /* 田中家爆破.png */,
+				02F8AE621C772CD9006A586A /* food_pan_kabi.png */,
+				023F5F051C6DF76400C13973 /* パン.png */,
+				023F5EFB1C6DF00A00C13973 /* 棚.png */,
+				023F5EF51C6DEE3500C13973 /* トゥケモン.png */,
+				020348AD1C92E367006EFC09 /* 田中怒る.png */,
+				023F5EF31C6DEC5600C13973 /* モンファン.png */,
+				023F5EF71C6DEE3F00C13973 /* ホラクエ.png */,
+				023F5EF11C6DE9EC00C13973 /* ゲーム店長.png */,
+				0288C8061C64C2F200ECA4D7 /* cloud_01-blackwhite.png */,
+				0288C7FE1C64C13D00ECA4D7 /* パン屋.png */,
+				0288C8001C64C14200ECA4D7 /* 田中家.png */,
+				02BBC6F01C5B7A5700045669 /* kiruDS.png */,
+				0288C8021C64C14B00ECA4D7 /* ゲーム屋.png */,
+				0288C7F41C64B69D00ECA4D7 /* よこせ.png */,
+				024B23761CC294E000BD2356 /* 田中最終形態.png */,
+				02FCD9081C57789700E918C3 /* ふきだし.png */,
+				0288C7F01C64B27100ECA4D7 /* うまい田中.png */,
+				02FCD9041C56CA9F00E918C3 /* breakds.png */,
+				0288C7EE1C64AE6800ECA4D7 /* food_hamburger.png */,
+				028D3CB31C11AD9600C51409 /* レッツ田中.png */,
+				02C65BCD1C199D3B006EC8B5 /* ds.png */,
+				022E4C451C071B8F007F24D0 /* 田中通常時.png */,
+				02BA54751C2418E200D442BE /* 呪文の書.png */,
+				02BA54731C2416DF00D442BE /* 伝説の剣.png */,
+				022E4C491C072176007F24D0 /* バズーカ.png */,
+				022E4C4B1C07236E007F24D0 /* 田中爆破の図.png */,
+				02BA54771C24290C00D442BE /* 伝説の剣2.png */,
+				02C65BC91C199A6B006EC8B5 /* 田中寝る.png */,
+				024831331C25CC2800616A14 /* 伝説の剣2 のコピー.png */,
+				022E4C4D1C072868007F24D0 /* 田中落ち込むの図.png */,
+			);
+			name = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +461,46 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				023F5EFC1C6DF00A00C13973 /* 棚.png in Resources */,
+				0288C7F51C64B69D00ECA4D7 /* よこせ.png in Resources */,
+				028D3CAE1C11A76F00C51409 /* mplus-1c-black.ttf in Resources */,
+				0288C7EF1C64AE6800ECA4D7 /* food_hamburger.png in Resources */,
+				023F5EF61C6DEE3500C13973 /* トゥケモン.png in Resources */,
 				022E4C221C071A5B007F24D0 /* LaunchScreen.storyboard in Resources */,
+				02BA54781C24290C00D442BE /* 伝説の剣2.png in Resources */,
+				02BA54761C2418E200D442BE /* 呪文の書.png in Resources */,
+				02F8AE631C772CD9006A586A /* food_pan_kabi.png in Resources */,
+				023F5EF21C6DE9EC00C13973 /* ゲーム店長.png in Resources */,
+				0218E5B31C2408B90053F5E0 /* Default-667h@2x.png in Resources */,
+				02FCD9091C57789700E918C3 /* ふきだし.png in Resources */,
+				024B23771CC294E000BD2356 /* 田中最終形態.png in Resources */,
+				0288C8071C64C2F200ECA4D7 /* cloud_01-blackwhite.png in Resources */,
+				023F5F061C6DF76400C13973 /* パン.png in Resources */,
+				024831341C25CC2800616A14 /* 伝説の剣2 のコピー.png in Resources */,
+				022E4C461C071B8F007F24D0 /* 田中通常時.png in Resources */,
+				02FCD9051C56CA9F00E918C3 /* breakds.png in Resources */,
 				022E4C1F1C071A5B007F24D0 /* Assets.xcassets in Resources */,
+				023F5EF41C6DEC5600C13973 /* モンファン.png in Resources */,
+				02C65BCE1C199D3B006EC8B5 /* ds.png in Resources */,
+				020348A81C92D1AB006EFC09 /* 田中家爆破.png in Resources */,
+				0288C8011C64C14200ECA4D7 /* 田中家.png in Resources */,
+				0218E5B21C2408B90053F5E0 /* Default-568h@2x.png in Resources */,
+				0288C7F11C64B27100ECA4D7 /* うまい田中.png in Resources */,
+				02C65BCA1C199A6B006EC8B5 /* 田中寝る.png in Resources */,
+				022E4C4E1C072868007F24D0 /* 田中落ち込むの図.png in Resources */,
+				023F5EF81C6DEE3F00C13973 /* ホラクエ.png in Resources */,
+				0262C98E1CEDEB6E00E5398A /* スクリーンショット 2016-05-19 7.06.33.png in Resources */,
+				022E4C4C1C07236E007F24D0 /* 田中爆破の図.png in Resources */,
+				0288C8031C64C14B00ECA4D7 /* ゲーム屋.png in Resources */,
+				022E4C4A1C072176007F24D0 /* バズーカ.png in Resources */,
+				02BA54741C2416DF00D442BE /* 伝説の剣.png in Resources */,
+				02BBC6F11C5B7A5700045669 /* kiruDS.png in Resources */,
+				0288C7FF1C64C13D00ECA4D7 /* パン屋.png in Resources */,
+				02B573521C805C28002E8399 /* パン落ち込む.png in Resources */,
 				022E4C1A1C071A5B007F24D0 /* Main.storyboard in Resources */,
+				020348AE1C92E367006EFC09 /* 田中怒る.png in Resources */,
+				028D3CB41C11AD9600C51409 /* レッツ田中.png in Resources */,
+				0218E5B41C2408B90053F5E0 /* Default-736h@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -242,6 +508,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				025EF06E1CEF1DFC00A86B56 /* 3.5inch.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,9 +526,42 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02C082121C36AC8D008D2BA5 /* zyumonnosyo.swift in Sources */,
+				0288C7F71C64B89F00ECA4D7 /* YokoseViewController.swift in Sources */,
+				02F8AE671C773277006A586A /* PabKauViewController.swift in Sources */,
+				023F5F001C6DF45C00C13973 /* MonfanViewController.swift in Sources */,
+				02B5735A1C899869002E8399 /* PanGamegameViewController.swift in Sources */,
+				02B573561C8065EF002E8399 /* PanyaBazukaViewController.swift in Sources */,
+				025EF0681CEF0BA300A86B56 /* RastTanakaViewController.swift in Sources */,
+				024B23791CC51D8E00BD2356 /* BattleTanakaViewController.swift in Sources */,
+				02BBC6ED1C5B791800045669 /* kiruDSViewController.swift in Sources */,
+				02DBE2621C524C9E0019829F /* dsViewController.swift in Sources */,
+				020348AA1C92D331006EFC09 /* TanakakeBakuhaViewController.swift in Sources */,
+				02DBE25E1C5242F80019829F /* densetsunoken2ViewController.swift in Sources */,
+				02F8AE651C772E70006A586A /* PanyaViewController.swift in Sources */,
 				022E4C1D1C071A5B007F24D0 /* TANAKA.xcdatamodeld in Sources */,
-				022E4C171C071A5B007F24D0 /* ViewController.swift in Sources */,
+				02B573621C89A666002E8399 /* NakayokuViewController.swift in Sources */,
+				020348A61C92C7C2006EFC09 /* nakayoku2ViewController.swift in Sources */,
+				020348AC1C92D754006EFC09 /* AsobuNakayokuViewController.swift in Sources */,
+				02B5734C1C805399002E8399 /* GameAgeruViewController.swift in Sources */,
+				025EF06C1CEF1D8600A86B56 /* StoryboardHelper.swift in Sources */,
+				028D3CAA1C11A19300C51409 /* kuria1ViewController.swift in Sources */,
+				023F5F021C6DF4BC00C13973 /* TukemonViewController.swift in Sources */,
+				02B573541C805D5F002E8399 /* PanyaOtikomuViewController.swift in Sources */,
+				028D3CAC1C11A43100C51409 /* bazu-kagetViewController.swift in Sources */,
+				023F5F041C6DF51D00C13973 /* HorakueViewController.swift in Sources */,
+				02F8AE5F1C771F7A006A586A /* GameKauViewController.swift in Sources */,
+				02FCD90B1C57AD8A00E918C3 /* GameOverViewController.swift in Sources */,
+				0288C7F31C64B38200ECA4D7 /* HumViewController.swift in Sources */,
+				02B5735C1C899958002E8399 /* ViewController.swift in Sources */,
+				02DBE2601C5248A00019829F /* densetsunokengetViewController.swift in Sources */,
+				02B573501C80579B002E8399 /* Panya2ViewController.swift in Sources */,
+				023F5EFE1C6DF39100C13973 /* GameViewController.swift in Sources */,
+				0288C7ED1C64AC7F00ECA4D7 /* Stage3ViewController.swift in Sources */,
+				02F8AE691C7733E8006A586A /* Stage4ViewController.swift in Sources */,
+				02F8AE611C772AA0006A586A /* KnaNaiViewController.swift in Sources */,
 				022E4C151C071A5B007F24D0 /* AppDelegate.swift in Sources */,
+				02C082141C36AFD5008D2BA5 /* stage2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -401,10 +701,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Haruto Abe (34VK32W5B4)";
 				INFOPLIST_FILE = TANAKA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.souri.TANAKA;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e1dd36df-d813-451b-a980-92ffbe38396e";
 			};
 			name = Debug;
 		};
@@ -412,10 +714,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Haruto Abe (34VK32W5B4)";
 				INFOPLIST_FILE = TANAKA/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.souri.TANAKA;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "e1dd36df-d813-451b-a980-92ffbe38396e";
 			};
 			name = Release;
 		};
@@ -486,6 +790,7 @@
 				022E4C3E1C071A5B007F24D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		022E4C3F1C071A5B007F24D0 /* Build configuration list for PBXNativeTarget "TANAKATests" */ = {
 			isa = XCConfigurationList;
@@ -494,6 +799,7 @@
 				022E4C411C071A5B007F24D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		022E4C421C071A5B007F24D0 /* Build configuration list for PBXNativeTarget "TANAKAUITests" */ = {
 			isa = XCConfigurationList;
@@ -502,6 +808,7 @@
 				022E4C441C071A5B007F24D0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

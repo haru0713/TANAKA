@@ -1,29 +1,16 @@
 //
-//  ViewController.swift
+//  HumViewController.swift
 //  TANAKA
 //
-//  Created by 阿部遥人 on 2016/03/04.
+//  Created by 阿部遥人 on 2016/02/05.
 //  Copyright © 2016年 阿部遥人. All rights reserved.
 //
 
 import UIKit
 
-var monfan = 0
-var ooo = 0
-var clear = 0
-var pan = 0
-var bazuka = 0
-var iii = 0
-var gam = 0
-var tanakaHP = 10000
-var suzukiHP = 100
-var serihu = 0
+var hum: Int = 0
 
-
-
-
-
-class ViewController: UIViewController {
+class HumViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -46,5 +33,32 @@ class ViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
+
+@IBAction func h(){
+    
+    hum = hum + 1
+    
+    if hum == 5 {
+        
+        performSegueWithIdentifier("yokose",sender: nil)
+
+        
+    }else{
+        performSegueWithIdentifier("stage3",sender: nil)
+
+    }
+    
+    
+    }
+    
+    @IBAction func m(){
+        
+        gam = 1
+        
+        performSegueWithIdentifier("manzok",sender: nil)
+
+    }
+    
+        
 
 }
