@@ -17,7 +17,7 @@
         <!--Game Kau View Controller-->
         <scene sceneID="TLp-gD-ZEn">
             <objects>
-                <viewController id="8me-fc-PKy" customClass="GameKauViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="8me-fc-PKy" customClass="GameKauViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="ibm-nn-sIN"/>
                         <viewControllerLayoutGuide type="bottom" id="k7r-Ka-Wrb"/>
@@ -60,7 +60,7 @@
         <!--Kna Nai View Controller-->
         <scene sceneID="PPd-gj-XGq">
             <objects>
-                <viewController id="g0X-t6-2D9" customClass="KnaNaiViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="g0X-t6-2D9" customClass="KnaNaiViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="u5I-hG-Fq3"/>
                         <viewControllerLayoutGuide type="bottom" id="xnk-Or-M0O"/>
@@ -97,7 +97,7 @@
         <!--Monfan View Controller-->
         <scene sceneID="l51-GE-oUU">
             <objects>
-                <viewController id="Ure-5L-XnJ" customClass="MonfanViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Ure-5L-XnJ" customClass="MonfanViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="I6v-HK-qUf"/>
                         <viewControllerLayoutGuide type="bottom" id="ffR-fx-LV8"/>
@@ -144,7 +144,7 @@
         <!--Tukemon View Controller-->
         <scene sceneID="DKj-bm-MlC">
             <objects>
-                <viewController id="Kgi-S1-Pjl" customClass="TukemonViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Kgi-S1-Pjl" customClass="TukemonViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="pFU-ZX-VqM"/>
                         <viewControllerLayoutGuide type="bottom" id="K1F-vn-OCo"/>
@@ -237,7 +237,7 @@
         <!--Pan Gamegame View Controller-->
         <scene sceneID="yTI-W9-weZ">
             <objects>
-                <viewController id="pD4-ZD-uEd" customClass="PanGamegameViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="pD4-ZD-uEd" customClass="PanGamegameViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="u3L-VD-Lgy"/>
                         <viewControllerLayoutGuide type="bottom" id="cbd-Kc-bVn"/>
@@ -284,7 +284,7 @@
         <!--Nakayoku View Controller-->
         <scene sceneID="qIQ-kq-mdV">
             <objects>
-                <viewController id="3o5-XP-Dk0" customClass="NakayokuViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="3o5-XP-Dk0" customClass="NakayokuViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="JkT-Vm-Kwa"/>
                         <viewControllerLayoutGuide type="bottom" id="YX4-eD-C2H"/>
@@ -340,7 +340,7 @@
         <!--Horakue View Controller-->
         <scene sceneID="H0s-Iu-DsX">
             <objects>
-                <viewController id="boG-cj-rWl" customClass="HorakueViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="boG-cj-rWl" customClass="HorakueViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Var-v5-80p"/>
                         <viewControllerLayoutGuide type="bottom" id="M0h-0V-gtL"/>
@@ -387,7 +387,7 @@
         <!--Game View Controller-->
         <scene sceneID="JPC-83-zMR">
             <objects>
-                <viewController id="lDX-hU-uzM" customClass="GameViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="lDX-hU-uzM" customClass="GameViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="hhm-5r-3ct"/>
                         <viewControllerLayoutGuide type="bottom" id="x9E-0G-D9R"/>
@@ -497,7 +497,7 @@
         <!--Panya2 View Controller-->
         <scene sceneID="0Jl-Ov-uQw">
             <objects>
-                <viewController id="jEF-Yj-hCl" customClass="Panya2ViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="jEF-Yj-hCl" customClass="Panya2ViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Tmc-od-4rJ"/>
                         <viewControllerLayoutGuide type="bottom" id="HzA-W2-nSu"/>
@@ -558,7 +558,7 @@
         <!--Pab Kau View Controller-->
         <scene sceneID="bb9-ra-BoX">
             <objects>
-                <viewController id="f3L-Mw-lBK" customClass="PabKauViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="f3L-Mw-lBK" customClass="PabKauViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="f3O-rP-LG1"/>
                         <viewControllerLayoutGuide type="bottom" id="g5x-XT-Bj1"/>
@@ -605,7 +605,7 @@
         <!--Panya View Controller-->
         <scene sceneID="0QF-nx-GBN">
             <objects>
-                <viewController id="8nx-IY-SGc" customClass="PanyaViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="8nx-IY-SGc" customClass="PanyaViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="VIY-dh-Pke"/>
                         <viewControllerLayoutGuide type="bottom" id="kb4-UL-Vb7"/>
@@ -668,7 +668,7 @@
         <!--Stage4 View Controller-->
         <scene sceneID="AEo-PF-V0c">
             <objects>
-                <viewController id="3Ga-8n-Vsu" customClass="Stage4ViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="3Ga-8n-Vsu" customClass="Stage4ViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="PKP-uH-VmH"/>
                         <viewControllerLayoutGuide type="bottom" id="cnx-tb-MIo"/>
@@ -737,7 +737,7 @@
         <!--View Controller-->
         <scene sceneID="6hX-in-oGB">
             <objects>
-                <viewController id="3Ki-to-LKy" customClass="ViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="3Ki-to-LKy" customClass="ViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="cEi-ko-xT2"/>
                         <viewControllerLayoutGuide type="bottom" id="pbT-w2-xs9"/>
@@ -775,7 +775,7 @@
         <!--Stage2-->
         <scene sceneID="rvK-2z-bFE">
             <objects>
-                <viewController id="G4P-Gi-sCf" customClass="stage2" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="G4P-Gi-sCf" customClass="stage2" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="nlS-7Y-oyu"/>
                         <viewControllerLayoutGuide type="bottom" id="cjt-K2-YBx"/>
@@ -837,7 +837,7 @@
         <!--Panya Otikomu View Controller-->
         <scene sceneID="6vD-l4-YQU">
             <objects>
-                <viewController id="NAx-5R-mL7" customClass="PanyaOtikomuViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="NAx-5R-mL7" customClass="PanyaOtikomuViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="w91-OI-8BE"/>
                         <viewControllerLayoutGuide type="bottom" id="y9j-Hs-uv3"/>
@@ -876,7 +876,7 @@
         <!--Game Over View Controller-->
         <scene sceneID="ttX-Jm-3kW">
             <objects>
-                <viewController id="RGn-q0-MP8" customClass="GameOverViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="RGn-q0-MP8" customClass="GameOverViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="yy8-uZ-75C"/>
                         <viewControllerLayoutGuide type="bottom" id="r61-nZ-POD"/>
@@ -993,7 +993,7 @@
         <!--Panya Bazuka View Controller-->
         <scene sceneID="DvG-y3-WKD">
             <objects>
-                <viewController id="mBQ-XE-Xfl" customClass="PanyaBazukaViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="mBQ-XE-Xfl" customClass="PanyaBazukaViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="uS6-aU-uJP"/>
                         <viewControllerLayoutGuide type="bottom" id="8xK-Rt-KFe"/>
@@ -1077,7 +1077,7 @@
         <!--Game Ageru View Controller-->
         <scene sceneID="XJW-oe-2rV">
             <objects>
-                <viewController id="AS6-ue-Yeo" customClass="GameAgeruViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="AS6-ue-Yeo" customClass="GameAgeruViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="DWf-Lr-6OQ"/>
                         <viewControllerLayoutGuide type="bottom" id="rnx-eb-I3n"/>
@@ -1134,7 +1134,7 @@
         <!--KiruDS View Controller-->
         <scene sceneID="CIH-4y-BSM">
             <objects>
-                <viewController id="Qic-S4-FSO" customClass="kiruDSViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="Qic-S4-FSO" customClass="kiruDSViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="HDf-Ca-Aj5"/>
                         <viewControllerLayoutGuide type="bottom" id="K7R-G2-H6o"/>
@@ -1181,7 +1181,7 @@
         <!--Ds View Controller-->
         <scene sceneID="9JE-Bb-qnM">
             <objects>
-                <viewController id="sXf-zI-i2Y" customClass="dsViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="sXf-zI-i2Y" customClass="dsViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="4dd-bq-3IX"/>
                         <viewControllerLayoutGuide type="bottom" id="Jw0-Rj-0vv"/>
@@ -1316,7 +1316,7 @@
         <!--Densetsunokenget View Controller-->
         <scene sceneID="9wm-Qu-gUc">
             <objects>
-                <viewController id="AG3-y2-tgl" customClass="densetsunokengetViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="AG3-y2-tgl" customClass="densetsunokengetViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="JQh-Sl-4qz"/>
                         <viewControllerLayoutGuide type="bottom" id="b1N-NO-4Gf"/>
@@ -1357,7 +1357,7 @@
         <!--Zyumonnosyo-->
         <scene sceneID="bZt-Zv-56d">
             <objects>
-                <viewController id="WxX-er-mhy" customClass="zyumonnosyo" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="WxX-er-mhy" customClass="zyumonnosyo" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="UkA-FA-mcy"/>
                         <viewControllerLayoutGuide type="bottom" id="zkb-9l-Izd"/>
@@ -1395,7 +1395,7 @@
         <!--Densetsunoken2 View Controller-->
         <scene sceneID="cGf-fm-bzD">
             <objects>
-                <viewController storyboardIdentifier="densetsunoken2" useStoryboardIdentifierAsRestorationIdentifier="YES" id="CGp-CY-Ykj" customClass="densetsunoken2ViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="densetsunoken2" useStoryboardIdentifierAsRestorationIdentifier="YES" id="CGp-CY-Ykj" customClass="densetsunoken2ViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="doN-dx-Rhc"/>
                         <viewControllerLayoutGuide type="bottom" id="JiX-WA-1Tb"/>
@@ -1508,7 +1508,7 @@
         <!--Stage3 View Controller-->
         <scene sceneID="kbU-RH-wAt">
             <objects>
-                <viewController id="ehV-B0-E7z" customClass="Stage3ViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="ehV-B0-E7z" customClass="Stage3ViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="k4s-he-hUA"/>
                         <viewControllerLayoutGuide type="bottom" id="ag4-ih-OZw"/>
@@ -1551,7 +1551,7 @@
         <!--Hum View Controller-->
         <scene sceneID="tE1-5I-beG">
             <objects>
-                <viewController id="igo-2f-j18" customClass="HumViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="igo-2f-j18" customClass="HumViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="LU5-37-0lu"/>
                         <viewControllerLayoutGuide type="bottom" id="mL3-ue-EGX"/>
@@ -1640,7 +1640,7 @@
         <!--Yokose View Controller-->
         <scene sceneID="iYb-GM-CPx">
             <objects>
-                <viewController id="7ON-4Q-hmD" customClass="YokoseViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="7ON-4Q-hmD" customClass="YokoseViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="BmG-05-I6S"/>
                         <viewControllerLayoutGuide type="bottom" id="Fa7-9F-wJk"/>
@@ -1717,7 +1717,7 @@
         <!--Bazu kaget View Controller-->
         <scene sceneID="Xom-yZ-mOZ">
             <objects>
-                <viewController id="73K-GT-p9f" customClass="bazu_kagetViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="73K-GT-p9f" customClass="bazu_kagetViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="bkl-sL-xql"/>
                         <viewControllerLayoutGuide type="bottom" id="yLe-jS-egs"/>
@@ -1763,7 +1763,7 @@
         <!--Tanakake Bakuha View Controller-->
         <scene sceneID="tbC-pn-A18">
             <objects>
-                <viewController id="VV9-Vk-1Au" customClass="TanakakeBakuhaViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="VV9-Vk-1Au" customClass="TanakakeBakuhaViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="7aH-xJ-Ese"/>
                         <viewControllerLayoutGuide type="bottom" id="0J5-19-ims"/>
@@ -1801,7 +1801,7 @@
         <!--Kuria1 View Controller-->
         <scene sceneID="AsC-2g-ij0">
             <objects>
-                <viewController id="f0y-7G-ZI5" customClass="kuria1ViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="f0y-7G-ZI5" customClass="kuria1ViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Shn-Xy-goa"/>
                         <viewControllerLayoutGuide type="bottom" id="bjE-kv-LHn"/>
@@ -1858,7 +1858,7 @@
         <!--Nakayoku2 View Controller-->
         <scene sceneID="4Rl-LY-cQD">
             <objects>
-                <viewController id="loO-4G-UPP" customClass="nakayoku2ViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="loO-4G-UPP" customClass="nakayoku2ViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Jz2-hW-alv"/>
                         <viewControllerLayoutGuide type="bottom" id="21C-QO-KrT"/>
@@ -1913,7 +1913,7 @@
         <!--Tanakake Bakuha View Controller-->
         <scene sceneID="zSt-uu-ipm">
             <objects>
-                <viewController id="lAp-Ox-1z6" customClass="TanakakeBakuhaViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="lAp-Ox-1z6" customClass="TanakakeBakuhaViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="lZY-ym-WbS"/>
                         <viewControllerLayoutGuide type="bottom" id="Xty-b3-8N3"/>
@@ -1961,7 +1961,7 @@
         <!--Asobu Nakayoku View Controller-->
         <scene sceneID="e2H-PX-IBw">
             <objects>
-                <viewController id="tRe-CL-PGx" customClass="AsobuNakayokuViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="tRe-CL-PGx" customClass="AsobuNakayokuViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Nxe-gc-cyD"/>
                         <viewControllerLayoutGuide type="bottom" id="Jju-GP-1BY"/>
@@ -2121,7 +2121,7 @@
         <!--Battle Tanaka View Controller-->
         <scene sceneID="Ziu-Xx-R77">
             <objects>
-                <viewController id="ZiT-oV-nON" customClass="BattleTanakaViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="ZiT-oV-nON" customClass="BattleTanakaViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="NjO-u9-AJA"/>
                         <viewControllerLayoutGuide type="bottom" id="AwE-Tq-KEO"/>
@@ -2222,7 +2222,7 @@
         <!--Rast Tanaka View Controller-->
         <scene sceneID="Cth-Cl-Xna">
             <objects>
-                <viewController id="IdF-LG-saQ" customClass="RastTanakaViewController" customModule="TANAKATests" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="IdF-LG-saQ" customClass="RastTanakaViewController" customModule="TANAKA" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Hsy-kE-k9U"/>
                         <viewControllerLayoutGuide type="bottom" id="Rzi-BJ-Nfe"/>
@@ -2299,9 +2299,10 @@
         <image name="田中通常時.png" width="595" height="842"/>
     </resources>
     <inferredMetricsTieBreakers>
-        <segue reference="9OB-a3-MV3"/>
+        <segue reference="PsU-rt-bwK"/>
         <segue reference="e8z-NZ-8gw"/>
-        <segue reference="ulE-a0-xdR"/>
+        <segue reference="9OB-a3-MV3"/>
+        <segue reference="az2-7X-Pbc"/>
         <segue reference="Mb8-Nc-7Gx"/>
         <segue reference="zFl-sF-rne"/>
         <segue reference="Wyf-F5-nbd"/>
@@ -2310,7 +2311,6 @@
         <segue reference="eHX-3w-xfa"/>
         <segue reference="1mG-RY-QQ9"/>
         <segue reference="oiD-dS-Pkk"/>
-        <segue reference="az2-7X-Pbc"/>
         <segue reference="dUy-7p-pL4"/>
     </inferredMetricsTieBreakers>
 </document>

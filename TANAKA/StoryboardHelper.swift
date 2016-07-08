@@ -14,18 +14,23 @@ class StoryboardHelper: NSObject {
         let height = UIScreen.mainScreen().bounds.size.height
         if height == 667 {
             // iPhone6
+            print("iPhone6")
             storyboard = UIStoryboard(name: "Main", bundle: nil)
         }else if height == 736 {
             // iPhone6 Plus
+            print("iPhone6 Plus")
             storyboard = UIStoryboard(name: "Main", bundle: nil)
         }else if height == 480 {
             // iPhone4s
+            print("iPhone4s")
             storyboard = UIStoryboard(name: "3.5inch", bundle: nil)
         }else if height == 1024 {
             // iPad
+            print("iPad")
             storyboard = UIStoryboard(name: "3.5inch", bundle: nil)
         }else {
             // iPhone5・5s・5c + 何も読み込めなかった場合
+              print("iPhone5")
             storyboard = UIStoryboard(name: "Main", bundle: nil)
         }
         return storyboard

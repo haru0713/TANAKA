@@ -12,6 +12,7 @@
 		020348AA1C92D331006EFC09 /* TanakakeBakuhaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020348A91C92D331006EFC09 /* TanakakeBakuhaViewController.swift */; };
 		020348AC1C92D754006EFC09 /* AsobuNakayokuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 020348AB1C92D754006EFC09 /* AsobuNakayokuViewController.swift */; };
 		020348AE1C92E367006EFC09 /* 田中怒る.png in Resources */ = {isa = PBXBuildFile; fileRef = 020348AD1C92E367006EFC09 /* 田中怒る.png */; };
+		0217D19A1D26810D00AC9745 /* 3.5inch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0217D1991D26810D00AC9745 /* 3.5inch.storyboard */; };
 		0218E5B21C2408B90053F5E0 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0218E5AF1C2408B90053F5E0 /* Default-568h@2x.png */; };
 		0218E5B31C2408B90053F5E0 /* Default-667h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0218E5B01C2408B90053F5E0 /* Default-667h@2x.png */; };
 		0218E5B41C2408B90053F5E0 /* Default-736h@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0218E5B11C2408B90053F5E0 /* Default-736h@3x.png */; };
@@ -41,8 +42,25 @@
 		024B23791CC51D8E00BD2356 /* BattleTanakaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 024B23781CC51D8E00BD2356 /* BattleTanakaViewController.swift */; };
 		025EF0681CEF0BA300A86B56 /* RastTanakaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025EF0671CEF0BA300A86B56 /* RastTanakaViewController.swift */; };
 		025EF06C1CEF1D8600A86B56 /* StoryboardHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 025EF06B1CEF1D8600A86B56 /* StoryboardHelper.swift */; };
-		025EF06E1CEF1DFC00A86B56 /* 3.5inch.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 025EF06D1CEF1DFC00A86B56 /* 3.5inch.storyboard */; };
 		0262C98E1CEDEB6E00E5398A /* スクリーンショット 2016-05-19 7.06.33.png in Resources */ = {isa = PBXBuildFile; fileRef = 0262C98D1CEDEB6E00E5398A /* スクリーンショット 2016-05-19 7.06.33.png */; };
+		027EEEF81D2FC2C20085D293 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEE61D2FC2C20085D293 /* Contents.json */; };
+		027EEEF91D2FC2C20085D293 /* Icon-App-29x29@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEE71D2FC2C20085D293 /* Icon-App-29x29@1x.png */; };
+		027EEEFA1D2FC2C20085D293 /* Icon-App-29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEE81D2FC2C20085D293 /* Icon-App-29x29@2x.png */; };
+		027EEEFB1D2FC2C20085D293 /* Icon-App-29x29@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEE91D2FC2C20085D293 /* Icon-App-29x29@3x.png */; };
+		027EEEFC1D2FC2C20085D293 /* Icon-App-40x40@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEEA1D2FC2C20085D293 /* Icon-App-40x40@1x.png */; };
+		027EEEFD1D2FC2C20085D293 /* Icon-App-40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEEB1D2FC2C20085D293 /* Icon-App-40x40@2x.png */; };
+		027EEEFE1D2FC2C20085D293 /* Icon-App-40x40@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEEC1D2FC2C20085D293 /* Icon-App-40x40@3x.png */; };
+		027EEEFF1D2FC2C20085D293 /* Icon-App-60x60@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEED1D2FC2C20085D293 /* Icon-App-60x60@1x.png */; };
+		027EEF001D2FC2C20085D293 /* Icon-App-60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEEE1D2FC2C20085D293 /* Icon-App-60x60@2x.png */; };
+		027EEF011D2FC2C20085D293 /* Icon-App-60x60@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEEF1D2FC2C20085D293 /* Icon-App-60x60@3x.png */; };
+		027EEF021D2FC2C20085D293 /* Icon-App-76x76@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEF01D2FC2C20085D293 /* Icon-App-76x76@1x.png */; };
+		027EEF031D2FC2C20085D293 /* Icon-App-76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEF11D2FC2C20085D293 /* Icon-App-76x76@2x.png */; };
+		027EEF041D2FC2C20085D293 /* Icon-App-76x76@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEF21D2FC2C20085D293 /* Icon-App-76x76@3x.png */; };
+		027EEF051D2FC2C20085D293 /* Icon-App-83.5x83.5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEF31D2FC2C20085D293 /* Icon-App-83.5x83.5@2x.png */; };
+		027EEF061D2FC2C20085D293 /* iTunesArtwork@1x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEF41D2FC2C20085D293 /* iTunesArtwork@1x.png */; };
+		027EEF071D2FC2C20085D293 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEF51D2FC2C20085D293 /* iTunesArtwork@2x.png */; };
+		027EEF081D2FC2C20085D293 /* iTunesArtwork@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 027EEEF61D2FC2C20085D293 /* iTunesArtwork@3x.png */; };
+		027EEF091D2FC2C20085D293 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 027EEEF71D2FC2C20085D293 /* README.md */; };
 		0288C7ED1C64AC7F00ECA4D7 /* Stage3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0288C7EC1C64AC7F00ECA4D7 /* Stage3ViewController.swift */; };
 		0288C7EF1C64AE6800ECA4D7 /* food_hamburger.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C7EE1C64AE6800ECA4D7 /* food_hamburger.png */; };
 		0288C7F11C64B27100ECA4D7 /* うまい田中.png in Resources */ = {isa = PBXBuildFile; fileRef = 0288C7F01C64B27100ECA4D7 /* うまい田中.png */; };
@@ -111,6 +129,7 @@
 		020348A91C92D331006EFC09 /* TanakakeBakuhaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TanakakeBakuhaViewController.swift; sourceTree = "<group>"; };
 		020348AB1C92D754006EFC09 /* AsobuNakayokuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AsobuNakayokuViewController.swift; sourceTree = "<group>"; };
 		020348AD1C92E367006EFC09 /* 田中怒る.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "田中怒る.png"; sourceTree = "<group>"; };
+		0217D1991D26810D00AC9745 /* 3.5inch.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = 3.5inch.storyboard; sourceTree = "<group>"; };
 		0218E5AF1C2408B90053F5E0 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		0218E5B01C2408B90053F5E0 /* Default-667h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-667h@2x.png"; sourceTree = "<group>"; };
 		0218E5B11C2408B90053F5E0 /* Default-736h@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-736h@3x.png"; sourceTree = "<group>"; };
@@ -146,8 +165,25 @@
 		024B23781CC51D8E00BD2356 /* BattleTanakaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BattleTanakaViewController.swift; sourceTree = "<group>"; };
 		025EF0671CEF0BA300A86B56 /* RastTanakaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RastTanakaViewController.swift; sourceTree = "<group>"; };
 		025EF06B1CEF1D8600A86B56 /* StoryboardHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardHelper.swift; sourceTree = "<group>"; };
-		025EF06D1CEF1DFC00A86B56 /* 3.5inch.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = 3.5inch.storyboard; path = TANAKATests/3.5inch.storyboard; sourceTree = SOURCE_ROOT; };
 		0262C98D1CEDEB6E00E5398A /* スクリーンショット 2016-05-19 7.06.33.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2016-05-19 7.06.33.png"; sourceTree = "<group>"; };
+		027EEEE61D2FC2C20085D293 /* Contents.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Contents.json; sourceTree = "<group>"; };
+		027EEEE71D2FC2C20085D293 /* Icon-App-29x29@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@1x.png"; sourceTree = "<group>"; };
+		027EEEE81D2FC2C20085D293 /* Icon-App-29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@2x.png"; sourceTree = "<group>"; };
+		027EEEE91D2FC2C20085D293 /* Icon-App-29x29@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-29x29@3x.png"; sourceTree = "<group>"; };
+		027EEEEA1D2FC2C20085D293 /* Icon-App-40x40@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@1x.png"; sourceTree = "<group>"; };
+		027EEEEB1D2FC2C20085D293 /* Icon-App-40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@2x.png"; sourceTree = "<group>"; };
+		027EEEEC1D2FC2C20085D293 /* Icon-App-40x40@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-40x40@3x.png"; sourceTree = "<group>"; };
+		027EEEED1D2FC2C20085D293 /* Icon-App-60x60@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@1x.png"; sourceTree = "<group>"; };
+		027EEEEE1D2FC2C20085D293 /* Icon-App-60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@2x.png"; sourceTree = "<group>"; };
+		027EEEEF1D2FC2C20085D293 /* Icon-App-60x60@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-60x60@3x.png"; sourceTree = "<group>"; };
+		027EEEF01D2FC2C20085D293 /* Icon-App-76x76@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@1x.png"; sourceTree = "<group>"; };
+		027EEEF11D2FC2C20085D293 /* Icon-App-76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@2x.png"; sourceTree = "<group>"; };
+		027EEEF21D2FC2C20085D293 /* Icon-App-76x76@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-76x76@3x.png"; sourceTree = "<group>"; };
+		027EEEF31D2FC2C20085D293 /* Icon-App-83.5x83.5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-App-83.5x83.5@2x.png"; sourceTree = "<group>"; };
+		027EEEF41D2FC2C20085D293 /* iTunesArtwork@1x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@1x.png"; sourceTree = "<group>"; };
+		027EEEF51D2FC2C20085D293 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
+		027EEEF61D2FC2C20085D293 /* iTunesArtwork@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@3x.png"; sourceTree = "<group>"; };
+		027EEEF71D2FC2C20085D293 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0288C7EC1C64AC7F00ECA4D7 /* Stage3ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stage3ViewController.swift; sourceTree = "<group>"; };
 		0288C7EE1C64AE6800ECA4D7 /* food_hamburger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = food_hamburger.png; sourceTree = "<group>"; };
 		0288C7F01C64B27100ECA4D7 /* うまい田中.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "うまい田中.png"; sourceTree = "<group>"; };
@@ -252,8 +288,9 @@
 		022E4C131C071A5B007F24D0 /* TANAKA */ = {
 			isa = PBXGroup;
 			children = (
-				025EF06D1CEF1DFC00A86B56 /* 3.5inch.storyboard */,
+				027EEEE41D2FC2C20085D293 /* ios */,
 				022E4C181C071A5B007F24D0 /* Main.storyboard */,
+				0217D1991D26810D00AC9745 /* 3.5inch.storyboard */,
 				025EF06B1CEF1D8600A86B56 /* StoryboardHelper.swift */,
 				02B5735B1C899958002E8399 /* ViewController.swift */,
 				0288C7EC1C64AC7F00ECA4D7 /* Stage3ViewController.swift */,
@@ -315,6 +352,39 @@
 				022E4C391C071A5B007F24D0 /* Info.plist */,
 			);
 			path = TANAKAUITests;
+			sourceTree = "<group>";
+		};
+		027EEEE41D2FC2C20085D293 /* ios */ = {
+			isa = PBXGroup;
+			children = (
+				027EEEE51D2FC2C20085D293 /* AppIcon.appiconset */,
+				027EEEF41D2FC2C20085D293 /* iTunesArtwork@1x.png */,
+				027EEEF51D2FC2C20085D293 /* iTunesArtwork@2x.png */,
+				027EEEF61D2FC2C20085D293 /* iTunesArtwork@3x.png */,
+				027EEEF71D2FC2C20085D293 /* README.md */,
+			);
+			path = ios;
+			sourceTree = "<group>";
+		};
+		027EEEE51D2FC2C20085D293 /* AppIcon.appiconset */ = {
+			isa = PBXGroup;
+			children = (
+				027EEEE61D2FC2C20085D293 /* Contents.json */,
+				027EEEE71D2FC2C20085D293 /* Icon-App-29x29@1x.png */,
+				027EEEE81D2FC2C20085D293 /* Icon-App-29x29@2x.png */,
+				027EEEE91D2FC2C20085D293 /* Icon-App-29x29@3x.png */,
+				027EEEEA1D2FC2C20085D293 /* Icon-App-40x40@1x.png */,
+				027EEEEB1D2FC2C20085D293 /* Icon-App-40x40@2x.png */,
+				027EEEEC1D2FC2C20085D293 /* Icon-App-40x40@3x.png */,
+				027EEEED1D2FC2C20085D293 /* Icon-App-60x60@1x.png */,
+				027EEEEE1D2FC2C20085D293 /* Icon-App-60x60@2x.png */,
+				027EEEEF1D2FC2C20085D293 /* Icon-App-60x60@3x.png */,
+				027EEEF01D2FC2C20085D293 /* Icon-App-76x76@1x.png */,
+				027EEEF11D2FC2C20085D293 /* Icon-App-76x76@2x.png */,
+				027EEEF21D2FC2C20085D293 /* Icon-App-76x76@3x.png */,
+				027EEEF31D2FC2C20085D293 /* Icon-App-83.5x83.5@2x.png */,
+			);
+			path = AppIcon.appiconset;
 			sourceTree = "<group>";
 		};
 		02C0820F1C36A4B6008D2BA5 /* New Group */ = {
@@ -467,16 +537,25 @@
 				0288C7EF1C64AE6800ECA4D7 /* food_hamburger.png in Resources */,
 				023F5EF61C6DEE3500C13973 /* トゥケモン.png in Resources */,
 				022E4C221C071A5B007F24D0 /* LaunchScreen.storyboard in Resources */,
+				027EEF001D2FC2C20085D293 /* Icon-App-60x60@2x.png in Resources */,
+				027EEF021D2FC2C20085D293 /* Icon-App-76x76@1x.png in Resources */,
 				02BA54781C24290C00D442BE /* 伝説の剣2.png in Resources */,
 				02BA54761C2418E200D442BE /* 呪文の書.png in Resources */,
+				027EEF061D2FC2C20085D293 /* iTunesArtwork@1x.png in Resources */,
+				027EEF011D2FC2C20085D293 /* Icon-App-60x60@3x.png in Resources */,
+				027EEF041D2FC2C20085D293 /* Icon-App-76x76@3x.png in Resources */,
+				027EEF071D2FC2C20085D293 /* iTunesArtwork@2x.png in Resources */,
 				02F8AE631C772CD9006A586A /* food_pan_kabi.png in Resources */,
 				023F5EF21C6DE9EC00C13973 /* ゲーム店長.png in Resources */,
 				0218E5B31C2408B90053F5E0 /* Default-667h@2x.png in Resources */,
+				027EEEFC1D2FC2C20085D293 /* Icon-App-40x40@1x.png in Resources */,
 				02FCD9091C57789700E918C3 /* ふきだし.png in Resources */,
 				024B23771CC294E000BD2356 /* 田中最終形態.png in Resources */,
 				0288C8071C64C2F200ECA4D7 /* cloud_01-blackwhite.png in Resources */,
 				023F5F061C6DF76400C13973 /* パン.png in Resources */,
 				024831341C25CC2800616A14 /* 伝説の剣2 のコピー.png in Resources */,
+				027EEEFA1D2FC2C20085D293 /* Icon-App-29x29@2x.png in Resources */,
+				027EEF031D2FC2C20085D293 /* Icon-App-76x76@2x.png in Resources */,
 				022E4C461C071B8F007F24D0 /* 田中通常時.png in Resources */,
 				02FCD9051C56CA9F00E918C3 /* breakds.png in Resources */,
 				022E4C1F1C071A5B007F24D0 /* Assets.xcassets in Resources */,
@@ -486,6 +565,7 @@
 				0288C8011C64C14200ECA4D7 /* 田中家.png in Resources */,
 				0218E5B21C2408B90053F5E0 /* Default-568h@2x.png in Resources */,
 				0288C7F11C64B27100ECA4D7 /* うまい田中.png in Resources */,
+				027EEF081D2FC2C20085D293 /* iTunesArtwork@3x.png in Resources */,
 				02C65BCA1C199A6B006EC8B5 /* 田中寝る.png in Resources */,
 				022E4C4E1C072868007F24D0 /* 田中落ち込むの図.png in Resources */,
 				023F5EF81C6DEE3F00C13973 /* ホラクエ.png in Resources */,
@@ -493,14 +573,22 @@
 				022E4C4C1C07236E007F24D0 /* 田中爆破の図.png in Resources */,
 				0288C8031C64C14B00ECA4D7 /* ゲーム屋.png in Resources */,
 				022E4C4A1C072176007F24D0 /* バズーカ.png in Resources */,
+				027EEEF91D2FC2C20085D293 /* Icon-App-29x29@1x.png in Resources */,
 				02BA54741C2416DF00D442BE /* 伝説の剣.png in Resources */,
+				027EEEFB1D2FC2C20085D293 /* Icon-App-29x29@3x.png in Resources */,
 				02BBC6F11C5B7A5700045669 /* kiruDS.png in Resources */,
 				0288C7FF1C64C13D00ECA4D7 /* パン屋.png in Resources */,
+				027EEEFE1D2FC2C20085D293 /* Icon-App-40x40@3x.png in Resources */,
+				0217D19A1D26810D00AC9745 /* 3.5inch.storyboard in Resources */,
 				02B573521C805C28002E8399 /* パン落ち込む.png in Resources */,
 				022E4C1A1C071A5B007F24D0 /* Main.storyboard in Resources */,
 				020348AE1C92E367006EFC09 /* 田中怒る.png in Resources */,
+				027EEEFF1D2FC2C20085D293 /* Icon-App-60x60@1x.png in Resources */,
 				028D3CB41C11AD9600C51409 /* レッツ田中.png in Resources */,
 				0218E5B41C2408B90053F5E0 /* Default-736h@3x.png in Resources */,
+				027EEEF81D2FC2C20085D293 /* Contents.json in Resources */,
+				027EEEFD1D2FC2C20085D293 /* Icon-App-40x40@2x.png in Resources */,
+				027EEF051D2FC2C20085D293 /* Icon-App-83.5x83.5@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -508,7 +596,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				025EF06E1CEF1DFC00A86B56 /* 3.5inch.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -555,6 +642,7 @@
 				0288C7F31C64B38200ECA4D7 /* HumViewController.swift in Sources */,
 				02B5735C1C899958002E8399 /* ViewController.swift in Sources */,
 				02DBE2601C5248A00019829F /* densetsunokengetViewController.swift in Sources */,
+				027EEF091D2FC2C20085D293 /* README.md in Sources */,
 				02B573501C80579B002E8399 /* Panya2ViewController.swift in Sources */,
 				023F5EFE1C6DF39100C13973 /* GameViewController.swift in Sources */,
 				0288C7ED1C64AC7F00ECA4D7 /* Stage3ViewController.swift in Sources */,
